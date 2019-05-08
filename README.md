@@ -1,2 +1,2 @@
-# conditional-logic-addon
-WPOnion Conditional Logic Builder &amp; Validator Addon
+# WPOnion Conditional Logic Builder
+WPOnion Conditional Logic Builder Addon
