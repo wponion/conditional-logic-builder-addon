@@ -1,0 +1,18 @@
+{
+  "name"        : "wponion/wponion",
+  "description" : "~ Lightweight, Flexible & Rapid WP Development Framework ~",
+  "license"     : "GPL-3.0+",
+  "homepage"    : "https://wponion.com",
+  "authors"     : [
+	{
+	  "name"     : "Varun Sridharan",
+	  "email"    : "varunsridharan23@gmail.com",
+	  "homepage" : "https://varunsridharan.in",
+	  "role"     : "Developer"
+	}
+  ],
+  "keywords"    : [ ],
+  "autoload"    : {
+	"files" : [ "index.php" ]
+  }
+}
