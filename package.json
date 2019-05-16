@@ -1,13 +1,15 @@
 {
-  "name"            : "wponion-conditional-logic-builder-addon",
-  "version"         : "1.0.0",
-  "description"     : "Simple Addon Which Providers An Interface for End Users To Build Custom Logis Based On Their Needs.",
-  "main"            : "",
-  "scripts"         : { },
-  "keywords"        : [ ],
-  "author"          : "varunsridharan",
-  "license"         : "GPLV3",
-  "devDependencies" : {
-	"jQuery-QueryBuilder" : "^2.5.2"
+  "name": "wponion-conditional-logic-builder-addon",
+  "version": "1.0.0",
+  "description": "Simple Addon Which Providers An Interface for End Users To Build Custom Logis Based On Their Needs.",
+  "main": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "varunsridharan",
+  "license": "GPLV3",
+  "devDependencies": {
+    "jQuery-QueryBuilder": "^2.5.2",
+    "easy-gulp-tasker": "^1.0.8",
+    "bootstrap": "3.3.7"
   }
 }
